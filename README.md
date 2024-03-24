@@ -1,4 +1,4 @@
-# picgo-plugin-bian666-uploader
+# picgo-plugin-telegraph-image-uploader
 
 plugin for [PicGo](https://github.com/Molunerfinn/PicGo)
 
